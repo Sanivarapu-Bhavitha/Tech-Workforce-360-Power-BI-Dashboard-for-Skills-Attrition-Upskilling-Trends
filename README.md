@@ -35,7 +35,3 @@ A Power BI dashboard analyzing IT workforce trends—skill distribution, attriti
 ## 💼 Use Case
 Designed for IT organizations to understand their workforce capabilities, improve retention strategies, and guide investments in skill development—especially relevant in today’s rapidly evolving tech landscape.
 
-📂 Dataset: "C:\Users\Swarna Sri\Downloads\Tech_Workforce_Dataset.xlsx" 
-📷 Dashboard: "C:\Users\Swarna Sri\Downloads\tech workforce.pbix"
-
----
